@@ -1,0 +1,14 @@
+C:\Users\Kimberly\source\repos\parrf\parrf\bin\Debug\net8.0\parrf.exe
+C:\Users\Kimberly\source\repos\parrf\parrf\bin\Debug\net8.0\parrf.deps.json
+C:\Users\Kimberly\source\repos\parrf\parrf\bin\Debug\net8.0\parrf.runtimeconfig.json
+C:\Users\Kimberly\source\repos\parrf\parrf\bin\Debug\net8.0\parrf.dll
+C:\Users\Kimberly\source\repos\parrf\parrf\bin\Debug\net8.0\parrf.pdb
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.AssemblyInfoInputs.cache
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.AssemblyInfo.cs
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.dll
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\refint\parrf.dll
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.pdb
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\parrf.genruntimeconfig.cache
+C:\Users\Kimberly\source\repos\parrf\parrf\obj\Debug\net8.0\ref\parrf.dll
