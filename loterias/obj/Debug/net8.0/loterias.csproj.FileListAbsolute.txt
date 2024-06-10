@@ -1,0 +1,14 @@
+C:\Users\Kimberly\source\repos\loterias\bin\Debug\net8.0\loterias.exe
+C:\Users\Kimberly\source\repos\loterias\bin\Debug\net8.0\loterias.deps.json
+C:\Users\Kimberly\source\repos\loterias\bin\Debug\net8.0\loterias.runtimeconfig.json
+C:\Users\Kimberly\source\repos\loterias\bin\Debug\net8.0\loterias.dll
+C:\Users\Kimberly\source\repos\loterias\bin\Debug\net8.0\loterias.pdb
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.AssemblyInfoInputs.cache
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.AssemblyInfo.cs
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.dll
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\refint\loterias.dll
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.pdb
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\loterias.genruntimeconfig.cache
+C:\Users\Kimberly\source\repos\loterias\obj\Debug\net8.0\ref\loterias.dll
